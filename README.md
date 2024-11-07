@@ -242,7 +242,7 @@ private void setupDocumentListener(){
 ~~~
 
 # Hasil Gambar Project Ketika di Run
-![]().
+![](https://github.com/firaaaa10/Tugas2_AplikasiKonversiSuhu/blob/main/Cuplikan%20layar%202024-11-07%20150912.png).
 ## Indikator Penilaian:
 
 | No  | Komponen         |  Persentase  |
